@@ -1,0 +1,29 @@
+body{
+    background-color: white
+}
+.task1 h2{
+    margin-left: 300px;
+    color: red
+}
+.picture1{
+    margin-left: 300px;
+    width: 200px  ;
+    height:200px;
+    background-color:rgb(245, 140, 3);
+    border: 2px solid black;
+    border-radius:15px;
+    padding:20px;
+}
+.task2 h2{
+    margin-left: 300px;
+    color: blue;
+}
+.picture2{
+    margin-left: 300px;
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px;
+}
